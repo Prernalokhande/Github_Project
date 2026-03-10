@@ -4,6 +4,6 @@ public class Demo1 {
 
 	
 	void eat() {
-		System.out.println("Eat Chocolates");
+		System.out.println("Eat Chocolates..");
 	}
 }
